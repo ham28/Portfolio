@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button"
 import { Section } from "./Section"
 import { GithubIcon } from "./icons/GithubIcon"
 import Link from "next/dist/client/link"
