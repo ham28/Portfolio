@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { Card } from "@/components/ui/card";
 import { Section } from "./Section";
-import { Map, LucideIcon, BookKey, Building, Hamburger, Car, CalendarCheck, ArrowUpRight } from "lucide-react";
+import { Map, LucideIcon, Building, ArrowUpRight } from "lucide-react";
 import Link from "next/link";
 
 import ades from "../images/ades.png";
