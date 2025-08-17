@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Anek_Telugu } from "next/font/google";
+import { Geist, Anek_Telugu } from "next/font/google";
 import "./globals.css";
 
 const geistSans = Geist({
